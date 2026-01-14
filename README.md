@@ -2,6 +2,8 @@
 
 A complete R Shiny website with HTML, CSS, and JavaScript - all in one file!
 
+![Screenshot of the project](./website.png)
+
 ## Features
 
  **All in One File** - Everything is in `app.R`  
@@ -66,9 +68,4 @@ Edit `app.R` to:
 - R installed
 - Shiny package: `install.packages("shiny")`
 
-## Next Steps
 
-- Deploy to shinyapps.io for free hosting
-- Add more interactive features
-- Connect to databases
-- Add more visualizations
